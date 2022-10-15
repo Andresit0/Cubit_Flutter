@@ -1,3 +1,3 @@
-# BLOC TEMPLATE
+# CUBIT TEMPLATE
 
 Example of Cubit pattern.
